@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/expo-myfriends/static/js/app.dc2798a4.chunk.js",
-    "app.js.map": "/expo-myfriends/static/js/app.dc2798a4.chunk.js.map",
+    "app.js": "/expo-myfriends/static/js/app.19a229bb.chunk.js",
+    "app.js.map": "/expo-myfriends/static/js/app.19a229bb.chunk.js.map",
     "runtime~app.js": "/expo-myfriends/static/js/runtime~app.6253f594.js",
     "runtime~app.js.map": "/expo-myfriends/static/js/runtime~app.6253f594.js.map",
-    "static/js/2.d576c16c.chunk.js": "/expo-myfriends/static/js/2.d576c16c.chunk.js",
-    "static/js/2.d576c16c.chunk.js.map": "/expo-myfriends/static/js/2.d576c16c.chunk.js.map",
+    "static/js/2.a2f85857.chunk.js": "/expo-myfriends/static/js/2.a2f85857.chunk.js",
+    "static/js/2.a2f85857.chunk.js.map": "/expo-myfriends/static/js/2.a2f85857.chunk.js.map",
     "favicon-16.png": "/expo-myfriends/favicon-16.png",
     "favicon-32.png": "/expo-myfriends/favicon-32.png",
     "favicon.ico": "/expo-myfriends/favicon.ico",
     "index.html": "/expo-myfriends/index.html",
     "manifest.json": "/expo-myfriends/manifest.json",
     "serve.json": "/expo-myfriends/serve.json",
-    "static/js/2.d576c16c.chunk.js.LICENSE.txt": "/expo-myfriends/static/js/2.d576c16c.chunk.js.LICENSE.txt"
+    "static/js/2.a2f85857.chunk.js.LICENSE.txt": "/expo-myfriends/static/js/2.a2f85857.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.6253f594.js",
-    "static/js/2.d576c16c.chunk.js",
-    "static/js/app.dc2798a4.chunk.js"
+    "static/js/2.a2f85857.chunk.js",
+    "static/js/app.19a229bb.chunk.js"
   ]
 }
